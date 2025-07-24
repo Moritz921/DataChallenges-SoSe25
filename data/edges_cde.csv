@@ -1,0 +1,1175 @@
+Source,Target,Types,Weight
+Bad Zurzach,Brugg,BS C,1
+Bad Zurzach,Windisch,BS C,1
+Bad Zurzach,Basel,BS C,1
+Bad Zurzach,Bern,BS C,1
+Bad Zurzach,Niederbipp,BS C,1
+Bad Zurzach,Geneva,BS C,1
+Bad Zurzach,Kirchberg,BS C,1
+Bad Zurzach,Balsthal,BS C,1
+Bad Zurzach,Eppenberg-Wöschnau,BS C,1
+Bad Zurzach,Diessenhofen,BS C,1
+Bad Zurzach,Avenches,BS C,1
+Bad Zurzach,Baar,BS C,1
+Bad Zurzach,Rheinau,BS C,1
+Bad Zurzach,Stradonice Oppidum,BS C,1
+Bad Zurzach,Egglfing,BS C,1
+Bad Zurzach,Teisendorf,BS C,1
+Bad Zurzach,Altenburg-Rheinau,BS C,1
+Bad Zurzach,Manching,BS C,1
+Bad Zurzach,Dorfen Niederham,BS C,1
+Bad Zurzach,Karlstein,BS C,1
+Bad Zurzach,Linz Freinberg,BS C,1
+Bad Zurzach,Kremsmünster,BS C,1
+Bad Zurzach,Bruck an der Großglocknerstraße,BS C,1
+Bad Zurzach,Liefering,BS C,1
+Bad Zurzach,Georgenberg,BS C,1
+Bad Zurzach,Salzburg Stadt,BS C,1
+Bad Zurzach,Salzburg,BS C,1
+Bad Zurzach,Kleßheim,BS C,1
+Bad Zurzach,Třísov,BS C,1
+Bad Zurzach,Mainburg,BS C,1
+Bad Zurzach,Aholming,BS C,1
+Bad Zurzach,Oberpöring,BS C,1
+Bad Zurzach,Gilsenöd,BS C,1
+Bad Zurzach,Thundorf,BS C,1
+Bad Zurzach,Neuses an der Regnitz,BS C,1
+Bad Zurzach,Roggwil,BS C,1
+Bad Zurzach,Merklingen,BS C,1
+Brugg,Windisch,BS C,1
+Brugg,Basel,BS C,1
+Brugg,Bern,BS C,1
+Brugg,Niederbipp,BS C,1
+Brugg,Geneva,BS C,1
+Brugg,Kirchberg,BS C,1
+Brugg,Balsthal,BS C,1
+Brugg,Eppenberg-Wöschnau,BS C,1
+Brugg,Diessenhofen,BS C,1
+Brugg,Avenches,BS C,1
+Brugg,Baar,BS C,1
+Brugg,Rheinau,BS C,1
+Brugg,Stradonice Oppidum,BS C,1
+Brugg,Egglfing,BS C,1
+Brugg,Teisendorf,BS C,1
+Brugg,Altenburg-Rheinau,BS C,1
+Brugg,Manching,BS C,1
+Brugg,Dorfen Niederham,BS C,1
+Brugg,Karlstein,BS C,1
+Brugg,Linz Freinberg,BS C,1
+Brugg,Kremsmünster,BS C,1
+Brugg,Bruck an der Großglocknerstraße,BS C,1
+Brugg,Liefering,BS C,1
+Brugg,Georgenberg,BS C,1
+Brugg,Salzburg Stadt,BS C,1
+Brugg,Salzburg,BS C,1
+Brugg,Kleßheim,BS C,1
+Brugg,Třísov,BS C,1
+Brugg,Mainburg,BS C,1
+Brugg,Aholming,BS C,1
+Brugg,Oberpöring,BS C,1
+Brugg,Gilsenöd,BS C,1
+Brugg,Thundorf,BS C,1
+Brugg,Neuses an der Regnitz,BS C,1
+Brugg,Roggwil,BS C,1
+Brugg,Merklingen,BS C,1
+Windisch,Basel,BS C,2
+Windisch,Bern,BS C,4
+Windisch,Niederbipp,BS C,2
+Windisch,Geneva,BS C,1
+Windisch,Kirchberg,BS C,1
+Windisch,Balsthal,BS C,2
+Windisch,Eppenberg-Wöschnau,BS C,1
+Windisch,Diessenhofen,BS C,1
+Windisch,Avenches,BS C,5
+Windisch,Baar,BS C,4
+Windisch,Rheinau,BS C,5
+Windisch,Stradonice Oppidum,BS C,5
+Windisch,Egglfing,BS C,5
+Windisch,Teisendorf,BS C,5
+Windisch,Altenburg-Rheinau,BS C,5
+Windisch,Manching,BS C,5
+Windisch,Dorfen Niederham,BS C,1
+Windisch,Karlstein,BS C,3
+Windisch,Linz Freinberg,BS C,1
+Windisch,Kremsmünster,BS C,1
+Windisch,Bruck an der Großglocknerstraße,BS C,2
+Windisch,Liefering,BS C,1
+Windisch,Georgenberg,BS C,1
+Windisch,Salzburg Stadt,BS C,1
+Windisch,Salzburg,BS C,5
+Windisch,Kleßheim,BS C,1
+Windisch,Třísov,BS C,2
+Windisch,Mainburg,BS C,3
+Windisch,Aholming,BS C,2
+Windisch,Oberpöring,BS C,3
+Windisch,Gilsenöd,BS C,1
+Windisch,Thundorf,BS C,4
+Windisch,Neuses an der Regnitz,BS C,5
+Windisch,Roggwil,BS C,5
+Windisch,Merklingen,BS C,5
+Basel,Bern,BS C,2
+Basel,Niederbipp,BS C,2
+Basel,Geneva,BS C,1
+Basel,Kirchberg,BS C,1
+Basel,Balsthal,BS C,2
+Basel,Eppenberg-Wöschnau,BS C,1
+Basel,Diessenhofen,BS C,1
+Basel,Avenches,BS C,2
+Basel,Baar,BS C,2
+Basel,Rheinau,BS C,2
+Basel,Stradonice Oppidum,BS C,2
+Basel,Egglfing,BS C,2
+Basel,Teisendorf,BS C,2
+Basel,Altenburg-Rheinau,BS C,2
+Basel,Manching,BS C,2
+Basel,Dorfen Niederham,BS C,1
+Basel,Karlstein,BS C,2
+Basel,Linz Freinberg,BS C,1
+Basel,Kremsmünster,BS C,1
+Basel,Bruck an der Großglocknerstraße,BS C,2
+Basel,Liefering,BS C,1
+Basel,Georgenberg,BS C,1
+Basel,Salzburg Stadt,BS C,1
+Basel,Salzburg,BS C,2
+Basel,Kleßheim,BS C,1
+Basel,Třísov,BS C,2
+Basel,Mainburg,BS C,2
+Basel,Aholming,BS C,2
+Basel,Oberpöring,BS C,2
+Basel,Gilsenöd,BS C,1
+Basel,Thundorf,BS C,2
+Basel,Neuses an der Regnitz,BS C,2
+Basel,Roggwil,BS C,2
+Basel,Merklingen,BS C,2
+Bern,Niederbipp,BS C,2
+Bern,Geneva,BS C,1
+Bern,Kirchberg,BS C,1
+Bern,Balsthal,BS C,2
+Bern,Eppenberg-Wöschnau,BS C,1
+Bern,Diessenhofen,BS C,1
+Bern,Avenches,BS C,4
+Bern,Baar,BS C,4
+Bern,Rheinau,BS C,4
+Bern,Stradonice Oppidum,BS C,4
+Bern,Egglfing,BS C,4
+Bern,Teisendorf,BS C,4
+Bern,Altenburg-Rheinau,BS C,4
+Bern,Manching,BS C,4
+Bern,Dorfen Niederham,BS C,1
+Bern,Karlstein,BS C,3
+Bern,Linz Freinberg,BS C,1
+Bern,Kremsmünster,BS C,1
+Bern,Bruck an der Großglocknerstraße,BS C,2
+Bern,Liefering,BS C,1
+Bern,Georgenberg,BS C,1
+Bern,Salzburg Stadt,BS C,1
+Bern,Salzburg,BS C,4
+Bern,Kleßheim,BS C,1
+Bern,Třísov,BS C,2
+Bern,Mainburg,BS C,3
+Bern,Aholming,BS C,2
+Bern,Oberpöring,BS C,3
+Bern,Gilsenöd,BS C,1
+Bern,Thundorf,BS C,4
+Bern,Neuses an der Regnitz,BS C,4
+Bern,Roggwil,BS C,4
+Bern,Merklingen,BS C,4
+Niederbipp,Geneva,BS C,1
+Niederbipp,Kirchberg,BS C,1
+Niederbipp,Balsthal,BS C,2
+Niederbipp,Eppenberg-Wöschnau,BS C,1
+Niederbipp,Diessenhofen,BS C,1
+Niederbipp,Avenches,BS C,2
+Niederbipp,Baar,BS C,2
+Niederbipp,Rheinau,BS C,2
+Niederbipp,Stradonice Oppidum,BS C,2
+Niederbipp,Egglfing,BS C,2
+Niederbipp,Teisendorf,BS C,2
+Niederbipp,Altenburg-Rheinau,BS C,2
+Niederbipp,Manching,BS C,2
+Niederbipp,Dorfen Niederham,BS C,1
+Niederbipp,Karlstein,BS C,2
+Niederbipp,Linz Freinberg,BS C,1
+Niederbipp,Kremsmünster,BS C,1
+Niederbipp,Bruck an der Großglocknerstraße,BS C,2
+Niederbipp,Liefering,BS C,1
+Niederbipp,Georgenberg,BS C,1
+Niederbipp,Salzburg Stadt,BS C,1
+Niederbipp,Salzburg,BS C,2
+Niederbipp,Kleßheim,BS C,1
+Niederbipp,Třísov,BS C,2
+Niederbipp,Mainburg,BS C,2
+Niederbipp,Aholming,BS C,2
+Niederbipp,Oberpöring,BS C,2
+Niederbipp,Gilsenöd,BS C,1
+Niederbipp,Thundorf,BS C,2
+Niederbipp,Neuses an der Regnitz,BS C,2
+Niederbipp,Roggwil,BS C,2
+Niederbipp,Merklingen,BS C,2
+Geneva,Kirchberg,BS C,1
+Geneva,Balsthal,BS C,1
+Geneva,Eppenberg-Wöschnau,BS C,1
+Geneva,Diessenhofen,BS C,1
+Geneva,Avenches,BS C,1
+Geneva,Baar,BS C,1
+Geneva,Rheinau,BS C,1
+Geneva,Stradonice Oppidum,BS C,1
+Geneva,Egglfing,BS C,1
+Geneva,Teisendorf,BS C,1
+Geneva,Altenburg-Rheinau,BS C,1
+Geneva,Manching,BS C,1
+Geneva,Dorfen Niederham,BS C,1
+Geneva,Karlstein,BS C,1
+Geneva,Linz Freinberg,BS C,1
+Geneva,Kremsmünster,BS C,1
+Geneva,Bruck an der Großglocknerstraße,BS C,1
+Geneva,Liefering,BS C,1
+Geneva,Georgenberg,BS C,1
+Geneva,Salzburg Stadt,BS C,1
+Geneva,Salzburg,BS C,1
+Geneva,Kleßheim,BS C,1
+Geneva,Třísov,BS C,1
+Geneva,Mainburg,BS C,1
+Geneva,Aholming,BS C,1
+Geneva,Oberpöring,BS C,1
+Geneva,Gilsenöd,BS C,1
+Geneva,Thundorf,BS C,1
+Geneva,Neuses an der Regnitz,BS C,1
+Geneva,Roggwil,BS C,1
+Geneva,Merklingen,BS C,1
+Kirchberg,Balsthal,BS C,1
+Kirchberg,Eppenberg-Wöschnau,BS C,1
+Kirchberg,Diessenhofen,BS C,1
+Kirchberg,Avenches,BS C,1
+Kirchberg,Baar,BS C,1
+Kirchberg,Rheinau,BS C,1
+Kirchberg,Stradonice Oppidum,BS C,1
+Kirchberg,Egglfing,BS C,1
+Kirchberg,Teisendorf,BS C,1
+Kirchberg,Altenburg-Rheinau,BS C,1
+Kirchberg,Manching,BS C,1
+Kirchberg,Dorfen Niederham,BS C,1
+Kirchberg,Karlstein,BS C,1
+Kirchberg,Linz Freinberg,BS C,1
+Kirchberg,Kremsmünster,BS C,1
+Kirchberg,Bruck an der Großglocknerstraße,BS C,1
+Kirchberg,Liefering,BS C,1
+Kirchberg,Georgenberg,BS C,1
+Kirchberg,Salzburg Stadt,BS C,1
+Kirchberg,Salzburg,BS C,1
+Kirchberg,Kleßheim,BS C,1
+Kirchberg,Třísov,BS C,1
+Kirchberg,Mainburg,BS C,1
+Kirchberg,Aholming,BS C,1
+Kirchberg,Oberpöring,BS C,1
+Kirchberg,Gilsenöd,BS C,1
+Kirchberg,Thundorf,BS C,1
+Kirchberg,Neuses an der Regnitz,BS C,1
+Kirchberg,Roggwil,BS C,1
+Kirchberg,Merklingen,BS C,1
+Balsthal,Eppenberg-Wöschnau,BS C,1
+Balsthal,Diessenhofen,BS C,1
+Balsthal,Avenches,BS C,2
+Balsthal,Baar,BS C,2
+Balsthal,Rheinau,BS C,2
+Balsthal,Stradonice Oppidum,BS C,2
+Balsthal,Egglfing,BS C,2
+Balsthal,Teisendorf,BS C,2
+Balsthal,Altenburg-Rheinau,BS C,2
+Balsthal,Manching,BS C,2
+Balsthal,Dorfen Niederham,BS C,1
+Balsthal,Karlstein,BS C,2
+Balsthal,Linz Freinberg,BS C,1
+Balsthal,Kremsmünster,BS C,1
+Balsthal,Bruck an der Großglocknerstraße,BS C,2
+Balsthal,Liefering,BS C,1
+Balsthal,Georgenberg,BS C,1
+Balsthal,Salzburg Stadt,BS C,1
+Balsthal,Salzburg,BS C,2
+Balsthal,Kleßheim,BS C,1
+Balsthal,Třísov,BS C,2
+Balsthal,Mainburg,BS C,2
+Balsthal,Aholming,BS C,2
+Balsthal,Oberpöring,BS C,2
+Balsthal,Gilsenöd,BS C,1
+Balsthal,Thundorf,BS C,2
+Balsthal,Neuses an der Regnitz,BS C,2
+Balsthal,Roggwil,BS C,2
+Balsthal,Merklingen,BS C,2
+Eppenberg-Wöschnau,Diessenhofen,BS C,1
+Eppenberg-Wöschnau,Avenches,BS C,1
+Eppenberg-Wöschnau,Baar,BS C,1
+Eppenberg-Wöschnau,Rheinau,BS C,1
+Eppenberg-Wöschnau,Stradonice Oppidum,BS C,1
+Eppenberg-Wöschnau,Egglfing,BS C,1
+Eppenberg-Wöschnau,Teisendorf,BS C,1
+Eppenberg-Wöschnau,Altenburg-Rheinau,BS C,1
+Eppenberg-Wöschnau,Manching,BS C,1
+Eppenberg-Wöschnau,Dorfen Niederham,BS C,1
+Eppenberg-Wöschnau,Karlstein,BS C,1
+Eppenberg-Wöschnau,Linz Freinberg,BS C,1
+Eppenberg-Wöschnau,Kremsmünster,BS C,1
+Eppenberg-Wöschnau,Bruck an der Großglocknerstraße,BS C,1
+Eppenberg-Wöschnau,Liefering,BS C,1
+Eppenberg-Wöschnau,Georgenberg,BS C,1
+Eppenberg-Wöschnau,Salzburg Stadt,BS C,1
+Eppenberg-Wöschnau,Salzburg,BS C,1
+Eppenberg-Wöschnau,Kleßheim,BS C,1
+Eppenberg-Wöschnau,Třísov,BS C,1
+Eppenberg-Wöschnau,Mainburg,BS C,1
+Eppenberg-Wöschnau,Aholming,BS C,1
+Eppenberg-Wöschnau,Oberpöring,BS C,1
+Eppenberg-Wöschnau,Gilsenöd,BS C,1
+Eppenberg-Wöschnau,Thundorf,BS C,1
+Eppenberg-Wöschnau,Neuses an der Regnitz,BS C,1
+Eppenberg-Wöschnau,Roggwil,BS C,1
+Eppenberg-Wöschnau,Merklingen,BS C,1
+Diessenhofen,Avenches,BS C,1
+Diessenhofen,Baar,BS C,1
+Diessenhofen,Rheinau,BS C,1
+Diessenhofen,Stradonice Oppidum,BS C,1
+Diessenhofen,Egglfing,BS C,1
+Diessenhofen,Teisendorf,BS C,1
+Diessenhofen,Altenburg-Rheinau,BS C,1
+Diessenhofen,Manching,BS C,1
+Diessenhofen,Dorfen Niederham,BS C,1
+Diessenhofen,Karlstein,BS C,1
+Diessenhofen,Linz Freinberg,BS C,1
+Diessenhofen,Kremsmünster,BS C,1
+Diessenhofen,Bruck an der Großglocknerstraße,BS C,1
+Diessenhofen,Liefering,BS C,1
+Diessenhofen,Georgenberg,BS C,1
+Diessenhofen,Salzburg Stadt,BS C,1
+Diessenhofen,Salzburg,BS C,1
+Diessenhofen,Kleßheim,BS C,1
+Diessenhofen,Třísov,BS C,1
+Diessenhofen,Mainburg,BS C,1
+Diessenhofen,Aholming,BS C,1
+Diessenhofen,Oberpöring,BS C,1
+Diessenhofen,Gilsenöd,BS C,1
+Diessenhofen,Thundorf,BS C,1
+Diessenhofen,Neuses an der Regnitz,BS C,1
+Diessenhofen,Roggwil,BS C,1
+Diessenhofen,Merklingen,BS C,1
+Avenches,Baar,BS C,4
+Avenches,Rheinau,BS C,5
+Avenches,Stradonice Oppidum,BS C,5
+Avenches,Egglfing,BS C,5
+Avenches,Teisendorf,BS C,5
+Avenches,Altenburg-Rheinau,BS C,5
+Avenches,Manching,BS C,5
+Avenches,Dorfen Niederham,BS C,1
+Avenches,Karlstein,BS C,3
+Avenches,Linz Freinberg,BS C,1
+Avenches,Kremsmünster,BS C,1
+Avenches,Bruck an der Großglocknerstraße,BS C,2
+Avenches,Liefering,BS C,1
+Avenches,Georgenberg,BS C,1
+Avenches,Salzburg Stadt,BS C,1
+Avenches,Salzburg,BS C,5
+Avenches,Kleßheim,BS C,1
+Avenches,Třísov,BS C,2
+Avenches,Mainburg,BS C,3
+Avenches,Aholming,BS C,2
+Avenches,Oberpöring,BS C,3
+Avenches,Gilsenöd,BS C,1
+Avenches,Thundorf,BS C,4
+Avenches,Neuses an der Regnitz,BS C,5
+Avenches,Roggwil,BS C,5
+Avenches,Merklingen,BS C,5
+Baar,Rheinau,BS C,4
+Baar,Stradonice Oppidum,BS C,4
+Baar,Egglfing,BS C,4
+Baar,Teisendorf,BS C,4
+Baar,Altenburg-Rheinau,BS C,4
+Baar,Manching,BS C,4
+Baar,Dorfen Niederham,BS C,1
+Baar,Karlstein,BS C,3
+Baar,Linz Freinberg,BS C,1
+Baar,Kremsmünster,BS C,1
+Baar,Bruck an der Großglocknerstraße,BS C,2
+Baar,Liefering,BS C,1
+Baar,Georgenberg,BS C,1
+Baar,Salzburg Stadt,BS C,1
+Baar,Salzburg,BS C,4
+Baar,Kleßheim,BS C,1
+Baar,Třísov,BS C,2
+Baar,Mainburg,BS C,3
+Baar,Aholming,BS C,2
+Baar,Oberpöring,BS C,3
+Baar,Gilsenöd,BS C,1
+Baar,Thundorf,BS C,4
+Baar,Neuses an der Regnitz,BS C,4
+Baar,Roggwil,BS C,4
+Baar,Merklingen,BS C,4
+Rheinau,Stradonice Oppidum,BS C,25
+Rheinau,Egglfing,BS C,27
+Rheinau,Teisendorf,BS C,27
+Rheinau,Altenburg-Rheinau,BS C,27
+Rheinau,Manching,BS C,27
+Rheinau,Dorfen Niederham,BS C,1
+Rheinau,Karlstein,BS C,3
+Rheinau,Linz Freinberg,BS C,1
+Rheinau,Kremsmünster,BS C,1
+Rheinau,Bruck an der Großglocknerstraße,BS C,2
+Rheinau,Liefering,BS C,1
+Rheinau,Georgenberg,BS C,1
+Rheinau,Salzburg Stadt,BS C,1
+Rheinau,Salzburg,BS C,15
+Rheinau,Kleßheim,BS C,1
+Rheinau,Třísov,BS C,2
+Rheinau,Mainburg,BS C,3
+Rheinau,Aholming,BS C,2
+Rheinau,Oberpöring,BS C,3
+Rheinau,Gilsenöd,BS C,1
+Rheinau,Thundorf,BS C,4
+Rheinau,Neuses an der Regnitz,BS C,27
+Rheinau,Roggwil,BS C,27
+Rheinau,Merklingen,BS C,22
+Stradonice Oppidum,Egglfing,BS C,25
+Stradonice Oppidum,Teisendorf,BS C,25
+Stradonice Oppidum,Altenburg-Rheinau,BS C,25
+Stradonice Oppidum,Manching,BS C,25
+Stradonice Oppidum,Dorfen Niederham,BS C,1
+Stradonice Oppidum,Karlstein,BS C,3
+Stradonice Oppidum,Linz Freinberg,BS C,1
+Stradonice Oppidum,Kremsmünster,BS C,1
+Stradonice Oppidum,Bruck an der Großglocknerstraße,BS C,2
+Stradonice Oppidum,Liefering,BS C,1
+Stradonice Oppidum,Georgenberg,BS C,1
+Stradonice Oppidum,Salzburg Stadt,BS C,1
+Stradonice Oppidum,Salzburg,BS C,15
+Stradonice Oppidum,Kleßheim,BS C,1
+Stradonice Oppidum,Třísov,BS C,2
+Stradonice Oppidum,Mainburg,BS C,3
+Stradonice Oppidum,Aholming,BS C,2
+Stradonice Oppidum,Oberpöring,BS C,3
+Stradonice Oppidum,Gilsenöd,BS C,1
+Stradonice Oppidum,Thundorf,BS C,4
+Stradonice Oppidum,Neuses an der Regnitz,BS C,25
+Stradonice Oppidum,Roggwil,BS C,25
+Stradonice Oppidum,Merklingen,BS C,22
+Egglfing,Teisendorf,BS C,39
+Egglfing,Altenburg-Rheinau,BS C,39
+Egglfing,Manching,BS C,39
+Egglfing,Dorfen Niederham,BS C,1
+Egglfing,Karlstein,BS C,3
+Egglfing,Linz Freinberg,BS C,1
+Egglfing,Kremsmünster,BS C,1
+Egglfing,Bruck an der Großglocknerstraße,BS C,2
+Egglfing,Liefering,BS C,1
+Egglfing,Georgenberg,BS C,1
+Egglfing,Salzburg Stadt,BS C,1
+Egglfing,Salzburg,BS C,15
+Egglfing,Kleßheim,BS C,1
+Egglfing,Třísov,BS C,2
+Egglfing,Mainburg,BS C,3
+Egglfing,Aholming,BS C,2
+Egglfing,Oberpöring,BS C,3
+Egglfing,Gilsenöd,BS C,1
+Egglfing,Thundorf,BS C,4
+Egglfing,Neuses an der Regnitz,BS C,39
+Egglfing,Roggwil,BS C,37
+Egglfing,Merklingen,BS C,22
+Teisendorf,Altenburg-Rheinau,BS C,68
+Teisendorf,Manching,BS C,135
+Teisendorf,Dorfen Niederham,BS C,1
+Teisendorf,Karlstein,BS C,3
+Teisendorf,Linz Freinberg,BS C,1
+Teisendorf,Kremsmünster,BS C,1
+Teisendorf,Bruck an der Großglocknerstraße,BS C,2
+Teisendorf,Liefering,BS C,1
+Teisendorf,Georgenberg,BS C,1
+Teisendorf,Salzburg Stadt,BS C,1
+Teisendorf,Salzburg,BS C,15
+Teisendorf,Kleßheim,BS C,1
+Teisendorf,Třísov,BS C,2
+Teisendorf,Mainburg,BS C,3
+Teisendorf,Aholming,BS C,2
+Teisendorf,Oberpöring,BS C,3
+Teisendorf,Gilsenöd,BS C,1
+Teisendorf,Thundorf,BS C,4
+Teisendorf,Neuses an der Regnitz,BS C,52
+Teisendorf,Roggwil,BS C,37
+Teisendorf,Merklingen,BS C,22
+Altenburg-Rheinau,Manching,BS C,68
+Altenburg-Rheinau,Dorfen Niederham,BS C,1
+Altenburg-Rheinau,Karlstein,BS C,3
+Altenburg-Rheinau,Linz Freinberg,BS C,1
+Altenburg-Rheinau,Kremsmünster,BS C,1
+Altenburg-Rheinau,Bruck an der Großglocknerstraße,BS C,2
+Altenburg-Rheinau,Liefering,BS C,1
+Altenburg-Rheinau,Georgenberg,BS C,1
+Altenburg-Rheinau,Salzburg Stadt,BS C,1
+Altenburg-Rheinau,Salzburg,BS C,15
+Altenburg-Rheinau,Kleßheim,BS C,1
+Altenburg-Rheinau,Třísov,BS C,2
+Altenburg-Rheinau,Mainburg,BS C,3
+Altenburg-Rheinau,Aholming,BS C,2
+Altenburg-Rheinau,Oberpöring,BS C,3
+Altenburg-Rheinau,Gilsenöd,BS C,1
+Altenburg-Rheinau,Thundorf,BS C,4
+Altenburg-Rheinau,Neuses an der Regnitz,BS C,52
+Altenburg-Rheinau,Roggwil,BS C,37
+Altenburg-Rheinau,Merklingen,BS C,22
+Manching,Dorfen Niederham,BS C,1
+Manching,Karlstein,BS C,3
+Manching,Linz Freinberg,BS C,1
+Manching,Kremsmünster,BS C,1
+Manching,Bruck an der Großglocknerstraße,BS C,2
+Manching,Liefering,BS C,1
+Manching,Georgenberg,BS C,1
+Manching,Salzburg Stadt,BS C,1
+Manching,Salzburg,BS C,15
+Manching,Kleßheim,BS C,1
+Manching,Třísov,BS C,2
+Manching,Mainburg,BS C,3
+Manching,Aholming,BS C,2
+Manching,Oberpöring,BS C,3
+Manching,Gilsenöd,BS C,1
+Manching,Thundorf,BS C,4
+Manching,Neuses an der Regnitz,BS C,52
+Manching,Roggwil,BS C,37
+Manching,Merklingen,BS C,22
+Dorfen Niederham,Karlstein,BS C,1
+Dorfen Niederham,Linz Freinberg,BS C,1
+Dorfen Niederham,Kremsmünster,BS C,1
+Dorfen Niederham,Bruck an der Großglocknerstraße,BS C,1
+Dorfen Niederham,Liefering,BS C,1
+Dorfen Niederham,Georgenberg,BS C,1
+Dorfen Niederham,Salzburg Stadt,BS C,1
+Dorfen Niederham,Salzburg,BS C,1
+Dorfen Niederham,Kleßheim,BS C,1
+Dorfen Niederham,Třísov,BS C,1
+Dorfen Niederham,Mainburg,BS C,1
+Dorfen Niederham,Aholming,BS C,1
+Dorfen Niederham,Oberpöring,BS C,1
+Dorfen Niederham,Gilsenöd,BS C,1
+Dorfen Niederham,Thundorf,BS C,1
+Dorfen Niederham,Neuses an der Regnitz,BS C,1
+Dorfen Niederham,Roggwil,BS C,1
+Dorfen Niederham,Merklingen,BS C,1
+Karlstein,Linz Freinberg,BS C,1
+Karlstein,Kremsmünster,BS C,1
+Karlstein,Bruck an der Großglocknerstraße,BS C,2
+Karlstein,Liefering,BS C,1
+Karlstein,Georgenberg,BS C,1
+Karlstein,Salzburg Stadt,BS C,1
+Karlstein,Salzburg,BS C,3
+Karlstein,Kleßheim,BS C,1
+Karlstein,Třísov,BS C,2
+Karlstein,Mainburg,BS C,3
+Karlstein,Aholming,BS C,2
+Karlstein,Oberpöring,BS C,3
+Karlstein,Gilsenöd,BS C,1
+Karlstein,Thundorf,BS C,3
+Karlstein,Neuses an der Regnitz,BS C,3
+Karlstein,Roggwil,BS C,3
+Karlstein,Merklingen,BS C,3
+Linz Freinberg,Kremsmünster,BS C,1
+Linz Freinberg,Bruck an der Großglocknerstraße,BS C,1
+Linz Freinberg,Liefering,BS C,1
+Linz Freinberg,Georgenberg,BS C,1
+Linz Freinberg,Salzburg Stadt,BS C,1
+Linz Freinberg,Salzburg,BS C,1
+Linz Freinberg,Kleßheim,BS C,1
+Linz Freinberg,Třísov,BS C,1
+Linz Freinberg,Mainburg,BS C,1
+Linz Freinberg,Aholming,BS C,1
+Linz Freinberg,Oberpöring,BS C,1
+Linz Freinberg,Gilsenöd,BS C,1
+Linz Freinberg,Thundorf,BS C,1
+Linz Freinberg,Neuses an der Regnitz,BS C,1
+Linz Freinberg,Roggwil,BS C,1
+Linz Freinberg,Merklingen,BS C,1
+Kremsmünster,Bruck an der Großglocknerstraße,BS C,1
+Kremsmünster,Liefering,BS C,1
+Kremsmünster,Georgenberg,BS C,1
+Kremsmünster,Salzburg Stadt,BS C,1
+Kremsmünster,Salzburg,BS C,1
+Kremsmünster,Kleßheim,BS C,1
+Kremsmünster,Třísov,BS C,1
+Kremsmünster,Mainburg,BS C,1
+Kremsmünster,Aholming,BS C,1
+Kremsmünster,Oberpöring,BS C,1
+Kremsmünster,Gilsenöd,BS C,1
+Kremsmünster,Thundorf,BS C,1
+Kremsmünster,Neuses an der Regnitz,BS C,1
+Kremsmünster,Roggwil,BS C,1
+Kremsmünster,Merklingen,BS C,1
+Bruck an der Großglocknerstraße,Liefering,BS C,1
+Bruck an der Großglocknerstraße,Georgenberg,BS C,1
+Bruck an der Großglocknerstraße,Salzburg Stadt,BS C,1
+Bruck an der Großglocknerstraße,Salzburg,BS C,2
+Bruck an der Großglocknerstraße,Kleßheim,BS C,1
+Bruck an der Großglocknerstraße,Třísov,BS C,2
+Bruck an der Großglocknerstraße,Mainburg,BS C,2
+Bruck an der Großglocknerstraße,Aholming,BS C,2
+Bruck an der Großglocknerstraße,Oberpöring,BS C,2
+Bruck an der Großglocknerstraße,Gilsenöd,BS C,1
+Bruck an der Großglocknerstraße,Thundorf,BS C,2
+Bruck an der Großglocknerstraße,Neuses an der Regnitz,BS C,2
+Bruck an der Großglocknerstraße,Roggwil,BS C,2
+Bruck an der Großglocknerstraße,Merklingen,BS C,2
+Liefering,Georgenberg,BS C,1
+Liefering,Salzburg Stadt,BS C,1
+Liefering,Salzburg,BS C,1
+Liefering,Kleßheim,BS C,1
+Liefering,Třísov,BS C,1
+Liefering,Mainburg,BS C,1
+Liefering,Aholming,BS C,1
+Liefering,Oberpöring,BS C,1
+Liefering,Gilsenöd,BS C,1
+Liefering,Thundorf,BS C,1
+Liefering,Neuses an der Regnitz,BS C,1
+Liefering,Roggwil,BS C,1
+Liefering,Merklingen,BS C,1
+Georgenberg,Salzburg Stadt,BS C,1
+Georgenberg,Salzburg,BS C,1
+Georgenberg,Kleßheim,BS C,1
+Georgenberg,Třísov,BS C,1
+Georgenberg,Mainburg,BS C,1
+Georgenberg,Aholming,BS C,1
+Georgenberg,Oberpöring,BS C,1
+Georgenberg,Gilsenöd,BS C,1
+Georgenberg,Thundorf,BS C,1
+Georgenberg,Neuses an der Regnitz,BS C,1
+Georgenberg,Roggwil,BS C,1
+Georgenberg,Merklingen,BS C,1
+Salzburg Stadt,Salzburg,BS C,1
+Salzburg Stadt,Kleßheim,BS C,1
+Salzburg Stadt,Třísov,BS C,1
+Salzburg Stadt,Mainburg,BS C,1
+Salzburg Stadt,Aholming,BS C,1
+Salzburg Stadt,Oberpöring,BS C,1
+Salzburg Stadt,Gilsenöd,BS C,1
+Salzburg Stadt,Thundorf,BS C,1
+Salzburg Stadt,Neuses an der Regnitz,BS C,1
+Salzburg Stadt,Roggwil,BS C,1
+Salzburg Stadt,Merklingen,BS C,1
+Salzburg,Kleßheim,BS C,1
+Salzburg,Třísov,BS C,2
+Salzburg,Mainburg,BS C,3
+Salzburg,Aholming,BS C,2
+Salzburg,Oberpöring,BS C,3
+Salzburg,Gilsenöd,BS C,1
+Salzburg,Thundorf,BS C,4
+Salzburg,Neuses an der Regnitz,BS C,15
+Salzburg,Roggwil,BS C,15
+Salzburg,Merklingen,BS C,15
+Kleßheim,Třísov,BS C,1
+Kleßheim,Mainburg,BS C,1
+Kleßheim,Aholming,BS C,1
+Kleßheim,Oberpöring,BS C,1
+Kleßheim,Gilsenöd,BS C,1
+Kleßheim,Thundorf,BS C,1
+Kleßheim,Neuses an der Regnitz,BS C,1
+Kleßheim,Roggwil,BS C,1
+Kleßheim,Merklingen,BS C,1
+Třísov,Mainburg,BS C,2
+Třísov,Aholming,BS C,2
+Třísov,Oberpöring,BS C,2
+Třísov,Gilsenöd,BS C,1
+Třísov,Thundorf,BS C,2
+Třísov,Neuses an der Regnitz,BS C,2
+Třísov,Roggwil,BS C,2
+Třísov,Merklingen,BS C,2
+Mainburg,Aholming,BS C,2
+Mainburg,Oberpöring,BS C,3
+Mainburg,Gilsenöd,BS C,1
+Mainburg,Thundorf,BS C,3
+Mainburg,Neuses an der Regnitz,BS C,3
+Mainburg,Roggwil,BS C,3
+Mainburg,Merklingen,BS C,3
+Aholming,Oberpöring,BS C,2
+Aholming,Gilsenöd,BS C,1
+Aholming,Thundorf,BS C,2
+Aholming,Neuses an der Regnitz,BS C,2
+Aholming,Roggwil,BS C,2
+Aholming,Merklingen,BS C,2
+Oberpöring,Gilsenöd,BS C,1
+Oberpöring,Thundorf,BS C,3
+Oberpöring,Neuses an der Regnitz,BS C,3
+Oberpöring,Roggwil,BS C,3
+Oberpöring,Merklingen,BS C,3
+Gilsenöd,Thundorf,BS C,1
+Gilsenöd,Neuses an der Regnitz,BS C,1
+Gilsenöd,Roggwil,BS C,1
+Gilsenöd,Merklingen,BS C,1
+Thundorf,Neuses an der Regnitz,BS C,4
+Thundorf,Roggwil,BS C,4
+Thundorf,Merklingen,BS C,4
+Neuses an der Regnitz,Roggwil,BS C,37
+Neuses an der Regnitz,Merklingen,BS C,22
+Roggwil,Merklingen,BS C,22
+Windisch,Bern,BS D,1
+Windisch,Niederbipp,BS D,1
+Windisch,Avenches,BS D,3
+Windisch,Rheinau,BS D,3
+Windisch,Altenburg-Rheinau,BS D,3
+Windisch,Teisendorf,BS D,3
+Windisch,Balsthal,BS D,1
+Windisch,Manching,BS D,1
+Windisch,Karlstein,BS D,1
+Windisch,Pfaffenhofen-Trappeleacker,BS D,1
+Windisch,Salzburg Stadt,BS D,1
+Windisch,Mont Beuvray,BS D,1
+Windisch,Oberpöring,BS D,1
+Windisch,Roggwil,BS D,3
+Windisch,Merklingen,BS D,3
+Bern,Niederbipp,BS D,1
+Bern,Avenches,BS D,1
+Bern,Rheinau,BS D,1
+Bern,Altenburg-Rheinau,BS D,1
+Bern,Teisendorf,BS D,1
+Bern,Balsthal,BS D,1
+Bern,Manching,BS D,1
+Bern,Karlstein,BS D,1
+Bern,Pfaffenhofen-Trappeleacker,BS D,1
+Bern,Salzburg Stadt,BS D,1
+Bern,Mont Beuvray,BS D,1
+Bern,Oberpöring,BS D,1
+Bern,Roggwil,BS D,1
+Bern,Merklingen,BS D,1
+Niederbipp,Avenches,BS D,1
+Niederbipp,Rheinau,BS D,1
+Niederbipp,Altenburg-Rheinau,BS D,1
+Niederbipp,Teisendorf,BS D,1
+Niederbipp,Balsthal,BS D,1
+Niederbipp,Manching,BS D,1
+Niederbipp,Karlstein,BS D,1
+Niederbipp,Pfaffenhofen-Trappeleacker,BS D,1
+Niederbipp,Salzburg Stadt,BS D,1
+Niederbipp,Mont Beuvray,BS D,1
+Niederbipp,Oberpöring,BS D,1
+Niederbipp,Roggwil,BS D,1
+Niederbipp,Merklingen,BS D,1
+Avenches,Rheinau,BS D,5
+Avenches,Altenburg-Rheinau,BS D,5
+Avenches,Teisendorf,BS D,4
+Avenches,Balsthal,BS D,1
+Avenches,Manching,BS D,1
+Avenches,Karlstein,BS D,1
+Avenches,Pfaffenhofen-Trappeleacker,BS D,1
+Avenches,Salzburg Stadt,BS D,1
+Avenches,Mont Beuvray,BS D,1
+Avenches,Oberpöring,BS D,1
+Avenches,Roggwil,BS D,5
+Avenches,Merklingen,BS D,5
+Rheinau,Altenburg-Rheinau,BS D,16
+Rheinau,Teisendorf,BS D,4
+Rheinau,Balsthal,BS D,1
+Rheinau,Manching,BS D,1
+Rheinau,Karlstein,BS D,1
+Rheinau,Pfaffenhofen-Trappeleacker,BS D,1
+Rheinau,Salzburg Stadt,BS D,1
+Rheinau,Mont Beuvray,BS D,1
+Rheinau,Oberpöring,BS D,1
+Rheinau,Roggwil,BS D,12
+Rheinau,Merklingen,BS D,15
+Altenburg-Rheinau,Teisendorf,BS D,4
+Altenburg-Rheinau,Balsthal,BS D,1
+Altenburg-Rheinau,Manching,BS D,1
+Altenburg-Rheinau,Karlstein,BS D,1
+Altenburg-Rheinau,Pfaffenhofen-Trappeleacker,BS D,1
+Altenburg-Rheinau,Salzburg Stadt,BS D,1
+Altenburg-Rheinau,Mont Beuvray,BS D,1
+Altenburg-Rheinau,Oberpöring,BS D,1
+Altenburg-Rheinau,Roggwil,BS D,12
+Altenburg-Rheinau,Merklingen,BS D,15
+Teisendorf,Balsthal,BS D,1
+Teisendorf,Manching,BS D,1
+Teisendorf,Karlstein,BS D,1
+Teisendorf,Pfaffenhofen-Trappeleacker,BS D,1
+Teisendorf,Salzburg Stadt,BS D,1
+Teisendorf,Mont Beuvray,BS D,1
+Teisendorf,Oberpöring,BS D,1
+Teisendorf,Roggwil,BS D,4
+Teisendorf,Merklingen,BS D,4
+Balsthal,Manching,BS D,1
+Balsthal,Karlstein,BS D,1
+Balsthal,Pfaffenhofen-Trappeleacker,BS D,1
+Balsthal,Salzburg Stadt,BS D,1
+Balsthal,Mont Beuvray,BS D,1
+Balsthal,Oberpöring,BS D,1
+Balsthal,Roggwil,BS D,1
+Balsthal,Merklingen,BS D,1
+Manching,Karlstein,BS D,1
+Manching,Pfaffenhofen-Trappeleacker,BS D,1
+Manching,Salzburg Stadt,BS D,1
+Manching,Mont Beuvray,BS D,1
+Manching,Oberpöring,BS D,1
+Manching,Roggwil,BS D,1
+Manching,Merklingen,BS D,1
+Karlstein,Pfaffenhofen-Trappeleacker,BS D,1
+Karlstein,Salzburg Stadt,BS D,1
+Karlstein,Mont Beuvray,BS D,1
+Karlstein,Oberpöring,BS D,1
+Karlstein,Roggwil,BS D,1
+Karlstein,Merklingen,BS D,1
+Pfaffenhofen-Trappeleacker,Salzburg Stadt,BS D,1
+Pfaffenhofen-Trappeleacker,Mont Beuvray,BS D,1
+Pfaffenhofen-Trappeleacker,Oberpöring,BS D,1
+Pfaffenhofen-Trappeleacker,Roggwil,BS D,1
+Pfaffenhofen-Trappeleacker,Merklingen,BS D,1
+Salzburg Stadt,Mont Beuvray,BS D,1
+Salzburg Stadt,Oberpöring,BS D,1
+Salzburg Stadt,Roggwil,BS D,1
+Salzburg Stadt,Merklingen,BS D,1
+Mont Beuvray,Oberpöring,BS D,1
+Mont Beuvray,Roggwil,BS D,1
+Mont Beuvray,Merklingen,BS D,1
+Oberpöring,Roggwil,BS D,1
+Oberpöring,Merklingen,BS D,1
+Roggwil,Merklingen,BS D,12
+Windisch,Rheinau,BS E,1
+Windisch,Stradonice Oppidum,BS E,1
+Windisch,Egglfing,BS E,1
+Windisch,Teisendorf,BS E,1
+Windisch,Sättelstädt,BS E,1
+Windisch,Balsthal,BS E,1
+Windisch,Titelberg,BS E,1
+Windisch,Manching,BS E,1
+Windisch,Dorfen Niederham,BS E,1
+Windisch,Langenpreising Zustorf,BS E,1
+Windisch,Telfs Schlossbichl,BS E,1
+Windisch,Salzburg Stadt,BS E,1
+Windisch,Salzburg,BS E,1
+Windisch,Karlstein,BS E,1
+Windisch,Cífer-Pác,BS E,1
+Windisch,Třísov,BS E,1
+Windisch,Mainburg,BS E,1
+Windisch,Altenburg-Rheinau,BS E,1
+Windisch,Oberpöring,BS E,1
+Windisch,Aholming,BS E,1
+Windisch,Alttiefenweg,BS E,1
+Windisch,Haunersdorf,BS E,1
+Windisch,Moos,BS E,1
+Windisch,Pankofen,BS E,1
+Windisch,Langenisarhofen,BS E,1
+Windisch,Gilsenöd,BS E,1
+Rheinau,Stradonice Oppidum,BS E,1
+Rheinau,Egglfing,BS E,1
+Rheinau,Teisendorf,BS E,1
+Rheinau,Sättelstädt,BS E,1
+Rheinau,Balsthal,BS E,1
+Rheinau,Titelberg,BS E,1
+Rheinau,Manching,BS E,1
+Rheinau,Dorfen Niederham,BS E,1
+Rheinau,Langenpreising Zustorf,BS E,1
+Rheinau,Telfs Schlossbichl,BS E,1
+Rheinau,Salzburg Stadt,BS E,1
+Rheinau,Salzburg,BS E,1
+Rheinau,Karlstein,BS E,1
+Rheinau,Cífer-Pác,BS E,1
+Rheinau,Třísov,BS E,1
+Rheinau,Mainburg,BS E,1
+Rheinau,Altenburg-Rheinau,BS E,1
+Rheinau,Oberpöring,BS E,1
+Rheinau,Aholming,BS E,1
+Rheinau,Alttiefenweg,BS E,1
+Rheinau,Haunersdorf,BS E,1
+Rheinau,Moos,BS E,1
+Rheinau,Pankofen,BS E,1
+Rheinau,Langenisarhofen,BS E,1
+Rheinau,Gilsenöd,BS E,1
+Stradonice Oppidum,Egglfing,BS E,5
+Stradonice Oppidum,Teisendorf,BS E,12
+Stradonice Oppidum,Sättelstädt,BS E,2
+Stradonice Oppidum,Balsthal,BS E,1
+Stradonice Oppidum,Titelberg,BS E,1
+Stradonice Oppidum,Manching,BS E,12
+Stradonice Oppidum,Dorfen Niederham,BS E,1
+Stradonice Oppidum,Langenpreising Zustorf,BS E,1
+Stradonice Oppidum,Telfs Schlossbichl,BS E,1
+Stradonice Oppidum,Salzburg Stadt,BS E,1
+Stradonice Oppidum,Salzburg,BS E,2
+Stradonice Oppidum,Karlstein,BS E,1
+Stradonice Oppidum,Cífer-Pác,BS E,2
+Stradonice Oppidum,Třísov,BS E,1
+Stradonice Oppidum,Mainburg,BS E,1
+Stradonice Oppidum,Altenburg-Rheinau,BS E,1
+Stradonice Oppidum,Oberpöring,BS E,12
+Stradonice Oppidum,Aholming,BS E,1
+Stradonice Oppidum,Alttiefenweg,BS E,1
+Stradonice Oppidum,Haunersdorf,BS E,3
+Stradonice Oppidum,Moos,BS E,1
+Stradonice Oppidum,Pankofen,BS E,2
+Stradonice Oppidum,Langenisarhofen,BS E,1
+Stradonice Oppidum,Gilsenöd,BS E,2
+Egglfing,Teisendorf,BS E,5
+Egglfing,Sättelstädt,BS E,2
+Egglfing,Balsthal,BS E,1
+Egglfing,Titelberg,BS E,1
+Egglfing,Manching,BS E,5
+Egglfing,Dorfen Niederham,BS E,1
+Egglfing,Langenpreising Zustorf,BS E,1
+Egglfing,Telfs Schlossbichl,BS E,1
+Egglfing,Salzburg Stadt,BS E,1
+Egglfing,Salzburg,BS E,2
+Egglfing,Karlstein,BS E,1
+Egglfing,Cífer-Pác,BS E,2
+Egglfing,Třísov,BS E,1
+Egglfing,Mainburg,BS E,1
+Egglfing,Altenburg-Rheinau,BS E,1
+Egglfing,Oberpöring,BS E,5
+Egglfing,Aholming,BS E,1
+Egglfing,Alttiefenweg,BS E,1
+Egglfing,Haunersdorf,BS E,3
+Egglfing,Moos,BS E,1
+Egglfing,Pankofen,BS E,2
+Egglfing,Langenisarhofen,BS E,1
+Egglfing,Gilsenöd,BS E,2
+Teisendorf,Sättelstädt,BS E,2
+Teisendorf,Balsthal,BS E,1
+Teisendorf,Titelberg,BS E,1
+Teisendorf,Manching,BS E,13
+Teisendorf,Dorfen Niederham,BS E,1
+Teisendorf,Langenpreising Zustorf,BS E,1
+Teisendorf,Telfs Schlossbichl,BS E,1
+Teisendorf,Salzburg Stadt,BS E,1
+Teisendorf,Salzburg,BS E,2
+Teisendorf,Karlstein,BS E,1
+Teisendorf,Cífer-Pác,BS E,2
+Teisendorf,Třísov,BS E,1
+Teisendorf,Mainburg,BS E,1
+Teisendorf,Altenburg-Rheinau,BS E,1
+Teisendorf,Oberpöring,BS E,13
+Teisendorf,Aholming,BS E,1
+Teisendorf,Alttiefenweg,BS E,1
+Teisendorf,Haunersdorf,BS E,3
+Teisendorf,Moos,BS E,1
+Teisendorf,Pankofen,BS E,2
+Teisendorf,Langenisarhofen,BS E,1
+Teisendorf,Gilsenöd,BS E,2
+Sättelstädt,Balsthal,BS E,1
+Sättelstädt,Titelberg,BS E,1
+Sättelstädt,Manching,BS E,2
+Sättelstädt,Dorfen Niederham,BS E,1
+Sättelstädt,Langenpreising Zustorf,BS E,1
+Sättelstädt,Telfs Schlossbichl,BS E,1
+Sättelstädt,Salzburg Stadt,BS E,1
+Sättelstädt,Salzburg,BS E,2
+Sättelstädt,Karlstein,BS E,1
+Sättelstädt,Cífer-Pác,BS E,2
+Sättelstädt,Třísov,BS E,1
+Sättelstädt,Mainburg,BS E,1
+Sättelstädt,Altenburg-Rheinau,BS E,1
+Sättelstädt,Oberpöring,BS E,2
+Sättelstädt,Aholming,BS E,1
+Sättelstädt,Alttiefenweg,BS E,1
+Sättelstädt,Haunersdorf,BS E,2
+Sättelstädt,Moos,BS E,1
+Sättelstädt,Pankofen,BS E,2
+Sättelstädt,Langenisarhofen,BS E,1
+Sättelstädt,Gilsenöd,BS E,2
+Balsthal,Titelberg,BS E,1
+Balsthal,Manching,BS E,1
+Balsthal,Dorfen Niederham,BS E,1
+Balsthal,Langenpreising Zustorf,BS E,1
+Balsthal,Telfs Schlossbichl,BS E,1
+Balsthal,Salzburg Stadt,BS E,1
+Balsthal,Salzburg,BS E,1
+Balsthal,Karlstein,BS E,1
+Balsthal,Cífer-Pác,BS E,1
+Balsthal,Třísov,BS E,1
+Balsthal,Mainburg,BS E,1
+Balsthal,Altenburg-Rheinau,BS E,1
+Balsthal,Oberpöring,BS E,1
+Balsthal,Aholming,BS E,1
+Balsthal,Alttiefenweg,BS E,1
+Balsthal,Haunersdorf,BS E,1
+Balsthal,Moos,BS E,1
+Balsthal,Pankofen,BS E,1
+Balsthal,Langenisarhofen,BS E,1
+Balsthal,Gilsenöd,BS E,1
+Titelberg,Manching,BS E,1
+Titelberg,Dorfen Niederham,BS E,1
+Titelberg,Langenpreising Zustorf,BS E,1
+Titelberg,Telfs Schlossbichl,BS E,1
+Titelberg,Salzburg Stadt,BS E,1
+Titelberg,Salzburg,BS E,1
+Titelberg,Karlstein,BS E,1
+Titelberg,Cífer-Pác,BS E,1
+Titelberg,Třísov,BS E,1
+Titelberg,Mainburg,BS E,1
+Titelberg,Altenburg-Rheinau,BS E,1
+Titelberg,Oberpöring,BS E,1
+Titelberg,Aholming,BS E,1
+Titelberg,Alttiefenweg,BS E,1
+Titelberg,Haunersdorf,BS E,1
+Titelberg,Moos,BS E,1
+Titelberg,Pankofen,BS E,1
+Titelberg,Langenisarhofen,BS E,1
+Titelberg,Gilsenöd,BS E,1
+Manching,Dorfen Niederham,BS E,1
+Manching,Langenpreising Zustorf,BS E,1
+Manching,Telfs Schlossbichl,BS E,1
+Manching,Salzburg Stadt,BS E,1
+Manching,Salzburg,BS E,2
+Manching,Karlstein,BS E,1
+Manching,Cífer-Pác,BS E,2
+Manching,Třísov,BS E,1
+Manching,Mainburg,BS E,1
+Manching,Altenburg-Rheinau,BS E,1
+Manching,Oberpöring,BS E,55
+Manching,Aholming,BS E,1
+Manching,Alttiefenweg,BS E,1
+Manching,Haunersdorf,BS E,3
+Manching,Moos,BS E,1
+Manching,Pankofen,BS E,2
+Manching,Langenisarhofen,BS E,1
+Manching,Gilsenöd,BS E,2
+Dorfen Niederham,Langenpreising Zustorf,BS E,1
+Dorfen Niederham,Telfs Schlossbichl,BS E,1
+Dorfen Niederham,Salzburg Stadt,BS E,1
+Dorfen Niederham,Salzburg,BS E,1
+Dorfen Niederham,Karlstein,BS E,1
+Dorfen Niederham,Cífer-Pác,BS E,1
+Dorfen Niederham,Třísov,BS E,1
+Dorfen Niederham,Mainburg,BS E,1
+Dorfen Niederham,Altenburg-Rheinau,BS E,1
+Dorfen Niederham,Oberpöring,BS E,1
+Dorfen Niederham,Aholming,BS E,1
+Dorfen Niederham,Alttiefenweg,BS E,1
+Dorfen Niederham,Haunersdorf,BS E,1
+Dorfen Niederham,Moos,BS E,1
+Dorfen Niederham,Pankofen,BS E,1
+Dorfen Niederham,Langenisarhofen,BS E,1
+Dorfen Niederham,Gilsenöd,BS E,1
+Langenpreising Zustorf,Telfs Schlossbichl,BS E,1
+Langenpreising Zustorf,Salzburg Stadt,BS E,1
+Langenpreising Zustorf,Salzburg,BS E,1
+Langenpreising Zustorf,Karlstein,BS E,1
+Langenpreising Zustorf,Cífer-Pác,BS E,1
+Langenpreising Zustorf,Třísov,BS E,1
+Langenpreising Zustorf,Mainburg,BS E,1
+Langenpreising Zustorf,Altenburg-Rheinau,BS E,1
+Langenpreising Zustorf,Oberpöring,BS E,1
+Langenpreising Zustorf,Aholming,BS E,1
+Langenpreising Zustorf,Alttiefenweg,BS E,1
+Langenpreising Zustorf,Haunersdorf,BS E,1
+Langenpreising Zustorf,Moos,BS E,1
+Langenpreising Zustorf,Pankofen,BS E,1
+Langenpreising Zustorf,Langenisarhofen,BS E,1
+Langenpreising Zustorf,Gilsenöd,BS E,1
+Telfs Schlossbichl,Salzburg Stadt,BS E,1
+Telfs Schlossbichl,Salzburg,BS E,1
+Telfs Schlossbichl,Karlstein,BS E,1
+Telfs Schlossbichl,Cífer-Pác,BS E,1
+Telfs Schlossbichl,Třísov,BS E,1
+Telfs Schlossbichl,Mainburg,BS E,1
+Telfs Schlossbichl,Altenburg-Rheinau,BS E,1
+Telfs Schlossbichl,Oberpöring,BS E,1
+Telfs Schlossbichl,Aholming,BS E,1
+Telfs Schlossbichl,Alttiefenweg,BS E,1
+Telfs Schlossbichl,Haunersdorf,BS E,1
+Telfs Schlossbichl,Moos,BS E,1
+Telfs Schlossbichl,Pankofen,BS E,1
+Telfs Schlossbichl,Langenisarhofen,BS E,1
+Telfs Schlossbichl,Gilsenöd,BS E,1
+Salzburg Stadt,Salzburg,BS E,1
+Salzburg Stadt,Karlstein,BS E,1
+Salzburg Stadt,Cífer-Pác,BS E,1
+Salzburg Stadt,Třísov,BS E,1
+Salzburg Stadt,Mainburg,BS E,1
+Salzburg Stadt,Altenburg-Rheinau,BS E,1
+Salzburg Stadt,Oberpöring,BS E,1
+Salzburg Stadt,Aholming,BS E,1
+Salzburg Stadt,Alttiefenweg,BS E,1
+Salzburg Stadt,Haunersdorf,BS E,1
+Salzburg Stadt,Moos,BS E,1
+Salzburg Stadt,Pankofen,BS E,1
+Salzburg Stadt,Langenisarhofen,BS E,1
+Salzburg Stadt,Gilsenöd,BS E,1
+Salzburg,Karlstein,BS E,1
+Salzburg,Cífer-Pác,BS E,2
+Salzburg,Třísov,BS E,1
+Salzburg,Mainburg,BS E,1
+Salzburg,Altenburg-Rheinau,BS E,1
+Salzburg,Oberpöring,BS E,2
+Salzburg,Aholming,BS E,1
+Salzburg,Alttiefenweg,BS E,1
+Salzburg,Haunersdorf,BS E,2
+Salzburg,Moos,BS E,1
+Salzburg,Pankofen,BS E,2
+Salzburg,Langenisarhofen,BS E,1
+Salzburg,Gilsenöd,BS E,2
+Karlstein,Cífer-Pác,BS E,1
+Karlstein,Třísov,BS E,1
+Karlstein,Mainburg,BS E,1
+Karlstein,Altenburg-Rheinau,BS E,1
+Karlstein,Oberpöring,BS E,1
+Karlstein,Aholming,BS E,1
+Karlstein,Alttiefenweg,BS E,1
+Karlstein,Haunersdorf,BS E,1
+Karlstein,Moos,BS E,1
+Karlstein,Pankofen,BS E,1
+Karlstein,Langenisarhofen,BS E,1
+Karlstein,Gilsenöd,BS E,1
+Cífer-Pác,Třísov,BS E,1
+Cífer-Pác,Mainburg,BS E,1
+Cífer-Pác,Altenburg-Rheinau,BS E,1
+Cífer-Pác,Oberpöring,BS E,2
+Cífer-Pác,Aholming,BS E,1
+Cífer-Pác,Alttiefenweg,BS E,1
+Cífer-Pác,Haunersdorf,BS E,2
+Cífer-Pác,Moos,BS E,1
+Cífer-Pác,Pankofen,BS E,2
+Cífer-Pác,Langenisarhofen,BS E,1
+Cífer-Pác,Gilsenöd,BS E,2
+Třísov,Mainburg,BS E,1
+Třísov,Altenburg-Rheinau,BS E,1
+Třísov,Oberpöring,BS E,1
+Třísov,Aholming,BS E,1
+Třísov,Alttiefenweg,BS E,1
+Třísov,Haunersdorf,BS E,1
+Třísov,Moos,BS E,1
+Třísov,Pankofen,BS E,1
+Třísov,Langenisarhofen,BS E,1
+Třísov,Gilsenöd,BS E,1
+Mainburg,Altenburg-Rheinau,BS E,1
+Mainburg,Oberpöring,BS E,1
+Mainburg,Aholming,BS E,1
+Mainburg,Alttiefenweg,BS E,1
+Mainburg,Haunersdorf,BS E,1
+Mainburg,Moos,BS E,1
+Mainburg,Pankofen,BS E,1
+Mainburg,Langenisarhofen,BS E,1
+Mainburg,Gilsenöd,BS E,1
+Altenburg-Rheinau,Oberpöring,BS E,1
+Altenburg-Rheinau,Aholming,BS E,1
+Altenburg-Rheinau,Alttiefenweg,BS E,1
+Altenburg-Rheinau,Haunersdorf,BS E,1
+Altenburg-Rheinau,Moos,BS E,1
+Altenburg-Rheinau,Pankofen,BS E,1
+Altenburg-Rheinau,Langenisarhofen,BS E,1
+Altenburg-Rheinau,Gilsenöd,BS E,1
+Oberpöring,Aholming,BS E,1
+Oberpöring,Alttiefenweg,BS E,1
+Oberpöring,Haunersdorf,BS E,3
+Oberpöring,Moos,BS E,1
+Oberpöring,Pankofen,BS E,2
+Oberpöring,Langenisarhofen,BS E,1
+Oberpöring,Gilsenöd,BS E,2
+Aholming,Alttiefenweg,BS E,1
+Aholming,Haunersdorf,BS E,1
+Aholming,Moos,BS E,1
+Aholming,Pankofen,BS E,1
+Aholming,Langenisarhofen,BS E,1
+Aholming,Gilsenöd,BS E,1
+Alttiefenweg,Haunersdorf,BS E,1
+Alttiefenweg,Moos,BS E,1
+Alttiefenweg,Pankofen,BS E,1
+Alttiefenweg,Langenisarhofen,BS E,1
+Alttiefenweg,Gilsenöd,BS E,1
+Haunersdorf,Moos,BS E,1
+Haunersdorf,Pankofen,BS E,2
+Haunersdorf,Langenisarhofen,BS E,1
+Haunersdorf,Gilsenöd,BS E,2
+Moos,Pankofen,BS E,1
+Moos,Langenisarhofen,BS E,1
+Moos,Gilsenöd,BS E,1
+Pankofen,Langenisarhofen,BS E,1
+Pankofen,Gilsenöd,BS E,2
+Langenisarhofen,Gilsenöd,BS E,1

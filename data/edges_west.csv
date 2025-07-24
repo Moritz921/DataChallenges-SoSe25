@@ -1,0 +1,310 @@
+Source,Target,Types,Weight
+Bad Zurzach,Brugg,BS C,1
+Bad Zurzach,Windisch,BS C,1
+Bad Zurzach,Basel,BS C,1
+Bad Zurzach,Bern,BS C,1
+Bad Zurzach,Niederbipp,BS C,1
+Bad Zurzach,Geneva,BS C,1
+Bad Zurzach,Kirchberg,BS C,1
+Bad Zurzach,Balsthal,BS C,1
+Bad Zurzach,Eppenberg-Wöschnau,BS C,1
+Bad Zurzach,Diessenhofen,BS C,1
+Bad Zurzach,Avenches,BS C,1
+Bad Zurzach,Baar,BS C,1
+Bad Zurzach,Rheinau,BS C,1
+Bad Zurzach,Altenburg-Rheinau,BS C,1
+Bad Zurzach,Roggwil,BS C,1
+Brugg,Windisch,BS C,1
+Brugg,Basel,BS C,1
+Brugg,Bern,BS C,1
+Brugg,Niederbipp,BS C,1
+Brugg,Geneva,BS C,1
+Brugg,Kirchberg,BS C,1
+Brugg,Balsthal,BS C,1
+Brugg,Eppenberg-Wöschnau,BS C,1
+Brugg,Diessenhofen,BS C,1
+Brugg,Avenches,BS C,1
+Brugg,Baar,BS C,1
+Brugg,Rheinau,BS C,1
+Brugg,Altenburg-Rheinau,BS C,1
+Brugg,Roggwil,BS C,1
+Windisch,Basel,BS C,2
+Windisch,Bern,BS C,4
+Windisch,Niederbipp,BS C,2
+Windisch,Geneva,BS C,1
+Windisch,Kirchberg,BS C,1
+Windisch,Balsthal,BS C,2
+Windisch,Eppenberg-Wöschnau,BS C,1
+Windisch,Diessenhofen,BS C,1
+Windisch,Avenches,BS C,5
+Windisch,Baar,BS C,4
+Windisch,Rheinau,BS C,5
+Windisch,Altenburg-Rheinau,BS C,5
+Windisch,Roggwil,BS C,5
+Basel,Bern,BS C,2
+Basel,Niederbipp,BS C,2
+Basel,Geneva,BS C,1
+Basel,Kirchberg,BS C,1
+Basel,Balsthal,BS C,2
+Basel,Eppenberg-Wöschnau,BS C,1
+Basel,Diessenhofen,BS C,1
+Basel,Avenches,BS C,2
+Basel,Baar,BS C,2
+Basel,Rheinau,BS C,2
+Basel,Altenburg-Rheinau,BS C,2
+Basel,Roggwil,BS C,2
+Bern,Niederbipp,BS C,2
+Bern,Geneva,BS C,1
+Bern,Kirchberg,BS C,1
+Bern,Balsthal,BS C,2
+Bern,Eppenberg-Wöschnau,BS C,1
+Bern,Diessenhofen,BS C,1
+Bern,Avenches,BS C,4
+Bern,Baar,BS C,4
+Bern,Rheinau,BS C,4
+Bern,Altenburg-Rheinau,BS C,4
+Bern,Roggwil,BS C,4
+Niederbipp,Geneva,BS C,1
+Niederbipp,Kirchberg,BS C,1
+Niederbipp,Balsthal,BS C,2
+Niederbipp,Eppenberg-Wöschnau,BS C,1
+Niederbipp,Diessenhofen,BS C,1
+Niederbipp,Avenches,BS C,2
+Niederbipp,Baar,BS C,2
+Niederbipp,Rheinau,BS C,2
+Niederbipp,Altenburg-Rheinau,BS C,2
+Niederbipp,Roggwil,BS C,2
+Geneva,Kirchberg,BS C,1
+Geneva,Balsthal,BS C,1
+Geneva,Eppenberg-Wöschnau,BS C,1
+Geneva,Diessenhofen,BS C,1
+Geneva,Avenches,BS C,1
+Geneva,Baar,BS C,1
+Geneva,Rheinau,BS C,1
+Geneva,Altenburg-Rheinau,BS C,1
+Geneva,Roggwil,BS C,1
+Kirchberg,Balsthal,BS C,1
+Kirchberg,Eppenberg-Wöschnau,BS C,1
+Kirchberg,Diessenhofen,BS C,1
+Kirchberg,Avenches,BS C,1
+Kirchberg,Baar,BS C,1
+Kirchberg,Rheinau,BS C,1
+Kirchberg,Altenburg-Rheinau,BS C,1
+Kirchberg,Roggwil,BS C,1
+Balsthal,Eppenberg-Wöschnau,BS C,1
+Balsthal,Diessenhofen,BS C,1
+Balsthal,Avenches,BS C,2
+Balsthal,Baar,BS C,2
+Balsthal,Rheinau,BS C,2
+Balsthal,Altenburg-Rheinau,BS C,2
+Balsthal,Roggwil,BS C,2
+Eppenberg-Wöschnau,Diessenhofen,BS C,1
+Eppenberg-Wöschnau,Avenches,BS C,1
+Eppenberg-Wöschnau,Baar,BS C,1
+Eppenberg-Wöschnau,Rheinau,BS C,1
+Eppenberg-Wöschnau,Altenburg-Rheinau,BS C,1
+Eppenberg-Wöschnau,Roggwil,BS C,1
+Diessenhofen,Avenches,BS C,1
+Diessenhofen,Baar,BS C,1
+Diessenhofen,Rheinau,BS C,1
+Diessenhofen,Altenburg-Rheinau,BS C,1
+Diessenhofen,Roggwil,BS C,1
+Avenches,Baar,BS C,4
+Avenches,Rheinau,BS C,5
+Avenches,Altenburg-Rheinau,BS C,5
+Avenches,Roggwil,BS C,5
+Baar,Rheinau,BS C,4
+Baar,Altenburg-Rheinau,BS C,4
+Baar,Roggwil,BS C,4
+Rheinau,Altenburg-Rheinau,BS C,27
+Rheinau,Roggwil,BS C,27
+Altenburg-Rheinau,Roggwil,BS C,37
+Baden,Windisch,BS F,1
+Baden,Vallon,BS F,1
+Baden,Geneva,BS F,1
+Baden,Courroux,BS F,1
+Baden,Balsthal,BS F,1
+Baden,Biberist,BS F,1
+Baden,Avenches,BS F,1
+Baden,Kyburg,BS F,1
+Baden,Rheinau,BS F,1
+Baden,Altenburg-Rheinau,BS F,1
+Baden,Mont Beuvray,BS F,1
+Baden,Roggwil,BS F,1
+Windisch,Vallon,BS F,1
+Windisch,Geneva,BS F,1
+Windisch,Courroux,BS F,2
+Windisch,Balsthal,BS F,5
+Windisch,Biberist,BS F,1
+Windisch,Avenches,BS F,2
+Windisch,Kyburg,BS F,1
+Windisch,Rheinau,BS F,1
+Windisch,Altenburg-Rheinau,BS F,7
+Windisch,Mont Beuvray,BS F,1
+Windisch,Roggwil,BS F,7
+Vallon,Geneva,BS F,1
+Vallon,Courroux,BS F,1
+Vallon,Balsthal,BS F,1
+Vallon,Biberist,BS F,1
+Vallon,Avenches,BS F,1
+Vallon,Kyburg,BS F,1
+Vallon,Rheinau,BS F,1
+Vallon,Altenburg-Rheinau,BS F,1
+Vallon,Mont Beuvray,BS F,1
+Vallon,Roggwil,BS F,1
+Geneva,Courroux,BS F,1
+Geneva,Balsthal,BS F,1
+Geneva,Biberist,BS F,1
+Geneva,Avenches,BS F,1
+Geneva,Kyburg,BS F,1
+Geneva,Rheinau,BS F,1
+Geneva,Altenburg-Rheinau,BS F,1
+Geneva,Mont Beuvray,BS F,1
+Geneva,Roggwil,BS F,1
+Courroux,Balsthal,BS F,2
+Courroux,Biberist,BS F,1
+Courroux,Avenches,BS F,2
+Courroux,Kyburg,BS F,1
+Courroux,Rheinau,BS F,1
+Courroux,Altenburg-Rheinau,BS F,2
+Courroux,Mont Beuvray,BS F,1
+Courroux,Roggwil,BS F,2
+Balsthal,Biberist,BS F,1
+Balsthal,Avenches,BS F,2
+Balsthal,Kyburg,BS F,1
+Balsthal,Rheinau,BS F,1
+Balsthal,Altenburg-Rheinau,BS F,5
+Balsthal,Mont Beuvray,BS F,1
+Balsthal,Roggwil,BS F,5
+Biberist,Avenches,BS F,1
+Biberist,Kyburg,BS F,1
+Biberist,Rheinau,BS F,1
+Biberist,Altenburg-Rheinau,BS F,1
+Biberist,Mont Beuvray,BS F,1
+Biberist,Roggwil,BS F,1
+Avenches,Kyburg,BS F,1
+Avenches,Rheinau,BS F,1
+Avenches,Altenburg-Rheinau,BS F,2
+Avenches,Mont Beuvray,BS F,1
+Avenches,Roggwil,BS F,2
+Kyburg,Rheinau,BS F,1
+Kyburg,Altenburg-Rheinau,BS F,1
+Kyburg,Mont Beuvray,BS F,1
+Kyburg,Roggwil,BS F,1
+Rheinau,Altenburg-Rheinau,BS F,1
+Rheinau,Mont Beuvray,BS F,1
+Rheinau,Roggwil,BS F,1
+Altenburg-Rheinau,Mont Beuvray,BS F,1
+Altenburg-Rheinau,Roggwil,BS F,17
+Mont Beuvray,Roggwil,BS F,1
+Windisch,Bern,BS D,1
+Windisch,Niederbipp,BS D,1
+Windisch,Avenches,BS D,3
+Windisch,Rheinau,BS D,3
+Windisch,Altenburg-Rheinau,BS D,3
+Windisch,Balsthal,BS D,1
+Windisch,Mont Beuvray,BS D,1
+Windisch,Roggwil,BS D,3
+Bern,Niederbipp,BS D,1
+Bern,Avenches,BS D,1
+Bern,Rheinau,BS D,1
+Bern,Altenburg-Rheinau,BS D,1
+Bern,Balsthal,BS D,1
+Bern,Mont Beuvray,BS D,1
+Bern,Roggwil,BS D,1
+Niederbipp,Avenches,BS D,1
+Niederbipp,Rheinau,BS D,1
+Niederbipp,Altenburg-Rheinau,BS D,1
+Niederbipp,Balsthal,BS D,1
+Niederbipp,Mont Beuvray,BS D,1
+Niederbipp,Roggwil,BS D,1
+Avenches,Rheinau,BS D,5
+Avenches,Altenburg-Rheinau,BS D,5
+Avenches,Balsthal,BS D,1
+Avenches,Mont Beuvray,BS D,1
+Avenches,Roggwil,BS D,5
+Rheinau,Altenburg-Rheinau,BS D,16
+Rheinau,Balsthal,BS D,1
+Rheinau,Mont Beuvray,BS D,1
+Rheinau,Roggwil,BS D,12
+Altenburg-Rheinau,Balsthal,BS D,1
+Altenburg-Rheinau,Mont Beuvray,BS D,1
+Altenburg-Rheinau,Roggwil,BS D,12
+Balsthal,Mont Beuvray,BS D,1
+Balsthal,Roggwil,BS D,1
+Mont Beuvray,Roggwil,BS D,1
+Windisch,Rheinau,BS E,1
+Windisch,Balsthal,BS E,1
+Windisch,Altenburg-Rheinau,BS E,1
+Rheinau,Balsthal,BS E,1
+Rheinau,Altenburg-Rheinau,BS E,1
+Balsthal,Altenburg-Rheinau,BS E,1
+Bern,Biel,BS H,1
+Bern,Geneva,BS H,1
+Bern,Courroux,BS H,1
+Bern,Balsthal,BS H,1
+Bern,Biberist,BS H,1
+Bern,Avenches,BS H,1
+Bern,Baar,BS H,1
+Bern,Rheinau,BS H,1
+Bern,Altenburg-Rheinau,BS H,1
+Bern,Roggwil,BS H,1
+Bern,Balm bei Lottstetten,BS H,1
+Biel,Geneva,BS H,1
+Biel,Courroux,BS H,1
+Biel,Balsthal,BS H,1
+Biel,Biberist,BS H,1
+Biel,Avenches,BS H,1
+Biel,Baar,BS H,1
+Biel,Rheinau,BS H,1
+Biel,Altenburg-Rheinau,BS H,1
+Biel,Roggwil,BS H,1
+Biel,Balm bei Lottstetten,BS H,1
+Geneva,Courroux,BS H,1
+Geneva,Balsthal,BS H,1
+Geneva,Biberist,BS H,1
+Geneva,Avenches,BS H,1
+Geneva,Baar,BS H,1
+Geneva,Rheinau,BS H,1
+Geneva,Altenburg-Rheinau,BS H,1
+Geneva,Roggwil,BS H,1
+Geneva,Balm bei Lottstetten,BS H,1
+Courroux,Balsthal,BS H,2
+Courroux,Biberist,BS H,1
+Courroux,Avenches,BS H,2
+Courroux,Baar,BS H,1
+Courroux,Rheinau,BS H,1
+Courroux,Altenburg-Rheinau,BS H,2
+Courroux,Roggwil,BS H,2
+Courroux,Balm bei Lottstetten,BS H,1
+Balsthal,Biberist,BS H,1
+Balsthal,Avenches,BS H,2
+Balsthal,Baar,BS H,1
+Balsthal,Rheinau,BS H,1
+Balsthal,Altenburg-Rheinau,BS H,5
+Balsthal,Roggwil,BS H,5
+Balsthal,Balm bei Lottstetten,BS H,1
+Biberist,Avenches,BS H,1
+Biberist,Baar,BS H,1
+Biberist,Rheinau,BS H,1
+Biberist,Altenburg-Rheinau,BS H,1
+Biberist,Roggwil,BS H,1
+Biberist,Balm bei Lottstetten,BS H,1
+Avenches,Baar,BS H,1
+Avenches,Rheinau,BS H,1
+Avenches,Altenburg-Rheinau,BS H,2
+Avenches,Roggwil,BS H,2
+Avenches,Balm bei Lottstetten,BS H,1
+Baar,Rheinau,BS H,1
+Baar,Altenburg-Rheinau,BS H,1
+Baar,Roggwil,BS H,1
+Baar,Balm bei Lottstetten,BS H,1
+Rheinau,Altenburg-Rheinau,BS H,1
+Rheinau,Roggwil,BS H,1
+Rheinau,Balm bei Lottstetten,BS H,1
+Altenburg-Rheinau,Roggwil,BS H,5
+Altenburg-Rheinau,Balm bei Lottstetten,BS H,1
+Roggwil,Balm bei Lottstetten,BS H,1
+Balsthal,Altenburg-Rheinau,BS G,1
+Balsthal,Roggwil,BS G,1
+Altenburg-Rheinau,Roggwil,BS G,1
