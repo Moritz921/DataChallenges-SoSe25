@@ -1,4 +1,5 @@
 # Data Challanges - SoSe 2025: Social Network Analysis
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 Dieses Repository enthält die Ergebnisse unserer Arbeit im Rahmen des Kurses Data Challanges im Sommersemester 2025 an der Goethe-Universität Frankfurt.
 
@@ -51,3 +52,12 @@ Zur besseren Darstellung auf der Karte wurden die Kanten wie folgt angepasst:
 - Min-Thickness: 0.2
 - Max-Thickness: 1
 - Transparency: 75%
+
+## Lizenz
+
+Diese Arbeit ist lizenziert unter
+[Creative Commons Attribution-NonCommercial-ShareAlike 3.0 International License][cc-by-nc-sa].
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/3.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-lightgrey.svg
